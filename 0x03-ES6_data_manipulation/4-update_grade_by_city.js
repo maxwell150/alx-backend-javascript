@@ -1,3 +1,4 @@
+/* eslint-disable */
 export default function updateStudentGradeByCity(studentList, city, newGrade) {
   const array = studentList.map((student) => {
     const grade = newGrade
